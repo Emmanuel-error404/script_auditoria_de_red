@@ -1,0 +1,19 @@
+# Entornos y archivos locales
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+
+# Informes, respaldos y evidencia que puede incluir datos del laboratorio
+reports/
+backups/
+/assets/
+*.cfg
+*.conf
+*.key
+*.pem
+*.ppk
+*.secret
+credentials*
